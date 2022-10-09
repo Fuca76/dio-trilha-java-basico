@@ -15,7 +15,7 @@ public class TiposVariaveis {
       numero = 10;
       System.out.print(numero);
 
-      final double VALOR DE PI =3.14;
+      final double Valor_De_PI =3.14;
 
 
     }
